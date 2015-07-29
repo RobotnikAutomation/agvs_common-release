@@ -1,0 +1,16 @@
+ros-indigo-agvs-common (0.1.1-0saucy) saucy; urgency=high
+
+  * agvs_common: Adding options for metapackages
+  * Fixing repositories in package.xml files
+  * Corrected dependency name
+  * Corrected dependency name
+  * Preparing repo for release
+  * Update package.xml
+  * Update CMakeLists.txt
+  * Update package.xml
+  * First indigo version commit
+  * Contributors: Elena Gambaro, ElenaFG, RomanRobotnik
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Tue, 28 Jul 2015 22:00:00 -0000
+
+
