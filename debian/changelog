@@ -1,0 +1,12 @@
+ros-indigo-agvs-pad (0.1.1-0saucy) saucy; urgency=high
+
+  * Fixing repositories in package.xml files
+  * Removing dependency on agvs_robot_control
+  * Preparing repo for release
+  * Adding gitignore file and configuring dependencies
+  * First indigo version commit
+  * Contributors: Elena Gambaro, RomanRobotnik
+
+ -- Román Navarro <rnavarro@robotnik.es>  Tue, 28 Jul 2015 22:00:00 -0000
+
+
