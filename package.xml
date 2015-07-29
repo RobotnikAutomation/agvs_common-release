@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>agvs_description</name>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <description>The agvs_description package. Robot description. Urdf and mesh files.</description>
 
   <maintainer email="rguzman@robotnik.es">Roberto Guzmán</maintainer>
@@ -10,8 +10,8 @@
   <license>BSD</license>
 
   <url type="website">http://wiki.ros.org/agvs_description</url>
-  <url type="repository">https://github.com/RobotnikAutomation/agvs</url>
-  <url type="bugtracker">https://github.com/RobotnikAutomation/agvs/issues</url>
+  <url type="repository">https://github.com/RobotnikAutomation/agvs_common.git</url>
+  <url type="bugtracker">https://github.com/RobotnikAutomation/agvs_common/issues</url>
 
   <author email="rnavarro@robotnik.es">Román Navarro</author> 
   <author email="rguzman@robotnik.es">Roberto Guzmán</author>

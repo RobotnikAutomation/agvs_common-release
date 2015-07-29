@@ -1,9 +1,0 @@
-ros-indigo-agvs-description (0.1.0-0saucy) saucy; urgency=high
-
-  * Adding gitignore file and configuring dependencies
-  * First indigo version commit
-  * Contributors: Elena Gambaro, RomanRobotnik
-
- -- Roberto Guzmán <rguzman@robotnik.es>  Thu, 16 Jul 2015 22:00:00 -0000
-
-
