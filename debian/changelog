@@ -1,0 +1,20 @@
+ros-kinetic-agvs-description (0.1.3-0jessie) jessie; urgency=high
+
+
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Mon, 18 Jul 2016 22:00:00 -0000
+
+ros-kinetic-agvs-description (0.1.2-0jessie) jessie; urgency=high
+
+  * indigo-0.1.1
+  * Adding new CHANGELOGS
+  * Fixing repositories in package.xml files
+  * agvs_description: modifying model colors
+  * Preparing repo for release
+  * Adding gitignore file and configuring dependencies
+  * First indigo version commit
+  * Contributors: Elena Gambaro, RomanRobotnik
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Mon, 04 Jul 2016 09:14:57 +0200
+
+
