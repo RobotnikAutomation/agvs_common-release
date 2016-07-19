@@ -1,0 +1,25 @@
+ros-kinetic-agvs-common (0.1.3-1jessie) jessie; urgency=high
+
+
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Mon, 18 Jul 2016 22:00:00 -0000
+
+ros-kinetic-agvs-common (0.1.2-1jessie) jessie; urgency=high
+
+  * Fixed errata
+  * indigo-0.1.1
+  * Adding new CHANGELOGS
+  * agvs_common: Adding options for metapackages
+  * Fixing repositories in package.xml files
+  * Corrected dependency name
+  * Corrected dependency name
+  * Preparing repo for release
+  * Update package.xml
+  * Update CMakeLists.txt
+  * Update package.xml
+  * First indigo version commit
+  * Contributors: Carlos Villar, Elena Gambaro, ElenaFG, RomanRobotnik
+
+ -- Roberto Guzmán <rguzman@robotnik.es>  Mon, 04 Jul 2016 09:14:57 +0200
+
+
